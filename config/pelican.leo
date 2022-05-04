@@ -56,7 +56,6 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2020</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
-<v t="leo.20220428180952.1"><vh>W6-3/30</vh></v>
 <v t="leo.20180423103656.1"><vh>W7-4/6</vh></v>
 <v t="leo.20220428181850.1"><vh>W8-4/13</vh></v>
 <v t="leo.20220428181853.1"><vh>W10-4/27</vh></v>
@@ -96,8 +95,8 @@ g.es("admin pelican Github 執行完畢")
 Title: W7
 Date: 2022-04-06 11:20
 Category: Misc
-Tags: w6_40923118
-Slug:w6_40923118.stml
+Tags: w7_40923118
+Slug:w7_summary
 Author: yen
 ---
 
@@ -124,44 +123,12 @@ Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
 
 
 </t>
-<t tx="leo.20220428180952.1">@language md
----
-Title: W6
-Date: 2022-03-30 11:20
-Category: Misc
-Tags: w6_40923118
-Slug:w6_40923118.stml
-Author: yen
----
-
-協同產品設計
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-Python
-----
-Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
-
-Python 可以用來開發網際版的內容管理系統 CMSiMDE
-
-Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
-
-Python 可以用於機器學習 Keras, Pytorch
-
-
-Flutter
-----
-
-Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
-
-
-
-</t>
 <t tx="leo.20220428181850.1">@language md
 ---
 Title: W8
 Date: 2022-04-13 11:20
 Category: Misc
-Tags: w6_40923118
+Tags: w8_40923118
 Slug:w6_40923118.stml
 Author: yen
 ---
@@ -188,7 +155,7 @@ W8心得
 Title: W10
 Date: 2022-04-27 11:20
 Category: Misc
-Tags: w6_40923118
+Tags: w10_40923118
 Slug:w6_40923118.stml
 Author: yen
 ---
