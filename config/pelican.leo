@@ -56,6 +56,7 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2020</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
+<v t="leo.20220504165728.1"><vh>W6-3/30</vh></v>
 <v t="leo.20180423103656.1"><vh>W7-4/6</vh></v>
 <v t="leo.20220428181850.1"><vh>W8-4/13</vh></v>
 <v t="leo.20220428181853.1"><vh>W10-4/27</vh></v>
@@ -96,7 +97,7 @@ Title: W7
 Date: 2022-04-06 11:20
 Category: Misc
 Tags: w7_40923118
-Slug:w7_summary
+Slug:w7_summary.html
 Author: yen
 ---
 
@@ -129,7 +130,7 @@ Title: W8
 Date: 2022-04-13 11:20
 Category: Misc
 Tags: w8_40923118
-Slug:w6_40923118.stml
+Slug:midterm.html
 Author: yen
 ---
 
@@ -139,9 +140,9 @@ Author: yen
 
 W8作業
 ----
-使用onshape組裝機械手臂 [123]
+使用onshape組裝機械手臂 [W8]
 
-[123]:
+[W8]:https://40923118.github.io/cd2022/content/midterm.html
 
 W8心得
 ----
@@ -156,7 +157,7 @@ Title: W10
 Date: 2022-04-27 11:20
 Category: Misc
 Tags: w10_40923118
-Slug:w6_40923118.stml
+Slug:w10_block_ui.html
 Author: yen
 ---
 
@@ -179,6 +180,22 @@ W10心得
 ----
 
 Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
+
+
+
+</t>
+<t tx="leo.20220504165728.1">@language md
+---
+Title: W6
+Date: 2022-04-06 11:20
+Category: Misc
+Tags: w6_40923118
+Slug:w6_40923118.html
+Author: yen
+
+W6作業
+----
+利用 Leo Editor 編輯 config/pelican.leo 網誌
 
 
 
