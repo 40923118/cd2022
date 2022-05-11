@@ -56,10 +56,10 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2020</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
-<v t="leo.20220504165728.1"><vh>W6-3/30</vh></v>
-<v t="leo.20180423103656.1"><vh>W7-4/6</vh></v>
-<v t="leo.20220428181850.1"><vh>W8-4/13</vh></v>
-<v t="leo.20220428181853.1"><vh>W10-4/27</vh></v>
+<v t="leo.20220504165728.1"><vh>@edit W6-3/30.md</vh></v>
+<v t="leo.20180423103656.1"><vh>@edit W7-4/6.md</vh></v>
+<v t="leo.20220428181850.1"><vh>@edit W8-4/13.md</vh></v>
+<v t="leo.20220428181853.1"><vh>@edit W10-4/27.md</vh></v>
 </v>
 </v>
 </v>
@@ -91,115 +91,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20180423103656.1">@language md
----
-Title: W7
-Date: 2022-04-06 11:20
-Category: Misc
-Tags: w7_40923118
-Slug:w7_summary.html
-Author: yen
----
-
-協同產品設計
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-W7作業
-----
-Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
-
-Python 可以用來開發網際版的內容管理系統 CMSiMDE
-
-Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
-
-Python 可以用於機器學習 Keras, Pytorch
-
-
-W7心得
-----
-
-Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
-
-
-
-</t>
-<t tx="leo.20220428181850.1">@language md
----
-Title: W8
-Date: 2022-04-13 11:20
-Category: Misc
-Tags: w8_40923118
-Slug:midterm.html
-Author: yen
----
-
-協同產品設計
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-W8作業
-----
-使用onshape組裝機械手臂 [W8]
-
-[W8]:https://40923118.github.io/cd2022/content/midterm.html
-
-W8心得
-----
-這次我分配到組裝零件，剛開始還不太會使用onshape組裝，所以在組裝時常常會發生過多限制使組合件無法做出相對運動加上在看圖時沒有注意到方向性，導致後來有部分需要重新組裝，好在最後有組裝完成
-
-
-
-</t>
-<t tx="leo.20220428181853.1">@language md
----
-Title: W10
-Date: 2022-04-27 11:20
-Category: Misc
-Tags: w10_40923118
-Slug:w10_block_ui.html
-Author: yen
----
-
-協同產品設計
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-W10作業
-----
-Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
-
-Python 可以用來開發網際版的內容管理系統 CMSiMDE
-
-Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
-
-Python 可以用於機器學習 Keras, Pytorch
-
-
-W10心得
-----
-
-Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
-
-
-
-</t>
-<t tx="leo.20220504165728.1">@language md
----
-Title: W6
-Date: 2022-04-06 11:20
-Category: Misc
-Tags: w6_40923118
-Slug:w6_40923118.html
-Author: yen
-
-W6作業
-----
-利用 Leo Editor 編輯 config/pelican.leo 網誌
-
-
-
-</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
